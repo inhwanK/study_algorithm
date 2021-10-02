@@ -3,8 +3,7 @@ package study_algorithm;
 import java.util.Scanner;
 
 // 평균은 넘겠지
-// 이번에는 제발...
-// 하
+// 이제 되는거니?
 public class Bj4344 {
 	public static void main(String[] args) {
 		
